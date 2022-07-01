@@ -5,7 +5,6 @@ I am a new graduate Software Engineer who is curious about learn and develop him
 Java / Android / Automation Testing / Firebase**
 
 - 🔭 I’m currently working on Intertech A.S 
-- 🌱 I’m currently learning Kotlin & Compose 
 - 📫 How to reach me: merttalass@gmail.com 
 
 **Language & Tools:**
