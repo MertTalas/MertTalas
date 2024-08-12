@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Mert</h1>
 <h3 align="center">I am a new graduate Software Engineer who is curious about learn and develop himself. I show my experiences and projects here.</h3>
 
-- 🔭 I’m currently looking for a job in Munich
+- 🔭 I’m currently looking for a job in Germany with Chancecard Visa
 
 - 📫 How to reach me **merttalass@gmail.com**
 
