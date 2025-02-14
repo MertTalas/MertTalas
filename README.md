@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Mert</h1>
-<h3 align="center"> As an Android Developer, I am determined and passionate about working with different countries and international partners to create a better product while providing users a great experience. I am self-motivated and responsible, always aware of the qualifications required for my duties, and willing to seek out any resources necessary to complete them successfully.</h3>
+<h3 align="center"> As an Android Developer, I am determined and passionate about working with international partners to create a better product while providing users a great experience. I am self-motivated and responsible, always aware of the qualifications required for my duties, and willing to seek out any resources necessary to complete them successfully.</h3>
 
-- 🔭 I’m currently looking for a job in Germany.
+- 🔭 I’m currently looking for a job in Turkey.
 
 - 📫 How to reach me **merttalass@gmail.com**
 
